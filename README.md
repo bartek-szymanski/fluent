@@ -43,7 +43,7 @@ My preferred framework is SuitCSS, FluentCSS follows a naming convention similar
 ```html
 <!-- Component -->
 <div class="parentName">
-  <div class="parentName-childName repsonive@lg isModified hasEventModifier"></div>
+  <div class="parentName-childName responsive@lg isModified hasEventModifier"></div>
   <div class="parentName-childName"></div>
   <div class="parentName-childName"></div>
   <div class="parentName-childName"></div>
